@@ -43,6 +43,40 @@
 
 }
 
+/* section-2 */
+
+.products h2{
+    font-weight: 700;
+    font-size: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.btn2 {
+    height: 45px;
+    width: 35%;
+    border: none;
+    outline: none;
+    background-color: purple;
+    color: white;
+    font-weight: 700;
+    border-radius: 60px;
+}
+
+.card:hover{
+    box-shadow: 2px 1px 25px -4px rgba(0,0,0,0.75);
+-webkit-box-shadow: 2px 1px 25px -4px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px 1px 25px -4px rgba(0,0,0,0.75);
+}
+
+.products h6 {
+    
+    font-weight: bold;
+}
+.products p{
+    font-weight: bold;
+}
+
 
 
 
