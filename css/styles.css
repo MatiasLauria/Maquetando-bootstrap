@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-
+/* navbar */
 .logo {
     width: 150px;
 }
@@ -12,3 +12,37 @@
 .nav-link {
     color: white;
 }
+
+/* section-1 */
+
+.main {
+    background: url(../assets/img/portada6.jpg) no-repeat;
+    background-size: cover;
+    height: 110vh;
+    background-position: 50% 50%;
+    width: 100%;
+}
+
+.main h1 {
+    font-size: 4rem;
+    font-weight: 700;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: purple;
+
+}
+
+.btn1 {
+    height: 45px;
+    width: 35%;
+    border: none;
+    outline: none;
+    background-color: purple;
+    color: white;
+    font-weight: 700;
+    border-radius: 60px;
+
+}
+
+
+
+
