@@ -18,13 +18,13 @@
 .main {
     background: url(../assets/img/portada6.jpg) no-repeat;
     background-size: cover;
-    height: 110vh;
+    height: 50vh;
     background-position: 50% 50%;
     width: 100%;
 }
 
 .main h1 {
-    font-size: 4rem;
+    font-size: 3rem;
     font-weight: 700;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: purple;
