@@ -77,6 +77,35 @@
     font-weight: bold;
 }
 
+/* footer */
+
+.news {
+    background-color: purple;
+    color: white;
+}
+
+.btn3 {
+    height: 45px;
+    width: 100px;
+    background: white;
+    margin-left: -10px;
+    border: 2px solid white;
+    font-weight: bold;
+    color:purple;
+}
+
+.news input {
+    height: 45px;
+    width: 55%;
+    border: 2px solid white;
+    outline: none;
+    margin-top: 20px;
+    font-weight: bold;
+    background: purple;
+    color: white;
+}
+
+
 
 
 
